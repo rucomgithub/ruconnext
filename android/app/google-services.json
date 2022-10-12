@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "200425925326",
+    "project_id": "ruconnext",
+    "storage_bucket": "ruconnext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200425925326:android:e3a30a54ed0ef5ed607e9f",
+        "android_client_info": {
+          "package_name": "th.ac.ru.ruconnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200425925326-jjcd2596kpch4r3u5q0ii7c4jbcrb7jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.ru.ruconnext",
+            "certificate_hash": "57262dd46b376ca04bb50e3b6566ce415f13f86b"
+          }
+        },
+        {
+          "client_id": "200425925326-mf20scjto75vm6al3vnhreah9d3kvr71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6E7nR63humPiRRjx9XHL6Veg63iy1-WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200425925326-mf20scjto75vm6al3vnhreah9d3kvr71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200425925326-jk5hj5ik60te7j1j9691i0q4s0vi4j5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.ac.ru.ruconnextgoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
