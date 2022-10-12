@@ -1,5 +1,5 @@
 # RuConnext
-
+สามารถ เข้าระบบ Google login ได้ทั้ง Android และ IOS ได้เรียบร้อยแล้ว
 A new Flutter project.
 
 ## Getting Started
