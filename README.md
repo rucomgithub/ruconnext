@@ -1,4 +1,4 @@
-# flutter_ru2
+# RuConnext
 
 A new Flutter project.
 
